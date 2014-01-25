@@ -1,0 +1,9 @@
+git checkout -b jdlsdfal;fd       make a new thing
+git checout ;jlasdjl;sadfjlsd     change to thing
+cat laks;dl;ksj                   show whats in file
+node ;lkasdlk;asdjl.js            runs node file
+git merge a;lkasdfjlks            merge branch into current branch
+git add --all                     adds all files to current branch
+git commit -m "asldlj"            actually makes update with message
+git branch                        see current branch
+git reset --hard                  get current branch code back
