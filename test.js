@@ -1,0 +1,11 @@
+var x = 2
+var y = 4
+var z = x + y
+
+console.log(z)
+
+var name = "sean"
+
+for(i=1; i<10; i++){
+	console.log(name)
+}
